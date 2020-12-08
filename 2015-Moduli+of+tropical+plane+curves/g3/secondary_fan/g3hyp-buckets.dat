@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pm chk="5411be7f"?>
+
+<data type="common::Set&lt;Int&gt;" version="2.13.1" xmlns="http://www.math.tu-berlin.de/polymake/#3">
+  <description><![CDATA[buckets g=3 polytope=hyp]]></description>
+  <v>0 1 10</v>
+</data>

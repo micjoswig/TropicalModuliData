@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pm chk="53ee76d7"?>
+
+<data type="common::Set&lt;Int&gt;" version="2.13.1" xmlns="http://www.math.tu-berlin.de/polymake/#3">
+  <v>257 496 704 705 706 708 1167 1344 1509 1537 1614 2015 2019 2020 2032 2037 2280 2282 2283 2364 2446 2517 2621 2703 3064 3068 3097 3319 3557 3639 3725 3793 4226 5130 5142 5743</v>
+</data>

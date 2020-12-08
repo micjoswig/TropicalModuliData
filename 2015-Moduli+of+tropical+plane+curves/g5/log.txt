@@ -1,0 +1,5 @@
+Sarah's E is a rotated Q1, #triangulations=508
+Sarah's Z is Q2, #triangulations=147908
+Sarah's D is Q3, #triangulations=162 [DONE]
+Sarah's A is Q4, #triangulations=968 [DONE]
+

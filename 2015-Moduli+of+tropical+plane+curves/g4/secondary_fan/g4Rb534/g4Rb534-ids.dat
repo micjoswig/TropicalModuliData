@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pm chk="53eb3589"?>
+
+<data type="common::Array&lt;Int&gt;" version="2.13.1" xmlns="http://www.math.tu-berlin.de/polymake/#3">
+  <description><![CDATA[bucket_ids g=4 polytope=S4x4]]></description>
+  <v>534 585 844 863 978 988 989 991 992 993 1273 1274 1599 1622 1802 1803 1804 1805 1893 1894 2022 2089 2378 2489 2635 2636 2902 3104 4135 4197</v>
+</data>

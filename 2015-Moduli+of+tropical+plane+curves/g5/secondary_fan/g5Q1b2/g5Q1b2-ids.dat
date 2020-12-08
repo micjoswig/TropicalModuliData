@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pm chk="53eacefc"?>
+
+<data type="common::Array&lt;Int&gt;" version="2.13.1" xmlns="http://www.math.tu-berlin.de/polymake/#3">
+  <description><![CDATA[bucket_ids g=5 polytope=Q1]]></description>
+  <v>2 13 22 25 36 41 56 57 80 90 96 99 125 156 157 465 474 476 477 487 491 492 497 498</v>
+</data>

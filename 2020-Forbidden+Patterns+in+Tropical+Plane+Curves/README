@@ -1,0 +1,13 @@
+This is the software companion to the paper:
+
+[2] Joswig & Tewari:
+“Forbidden patterns in tropical plane curves”. Beitraege Algebra Geom. Published online: 19 August 2020. doi:10.1007/s13366-020-00523-6.
+
+For the computations presented in this paper data from [1] is used.
+
+#Usage
+
+Change to the directory '2020-Forbidden+Patterns+in+Tropical+Plane+Curves', start polymake and initiate the setup using the data stored under 'TropicalModuliData/2015-Moduli+of+tropical+plane+curves'.
+
+
+

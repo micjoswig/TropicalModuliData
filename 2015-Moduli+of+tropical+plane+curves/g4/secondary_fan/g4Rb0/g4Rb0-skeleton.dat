@@ -1,0 +1,1 @@
+{"_type":"common::IncidenceMatrix<NonSymmetric>","data":[[0,4],[2,4,5],[1,5,6],[2,6,7],[1,7,8],[3,8],[0],[2,5,6],[1,6,7],[3],{"cols":9}],"_ns":{"polymake":["https://polymake.org","4.2"]}}

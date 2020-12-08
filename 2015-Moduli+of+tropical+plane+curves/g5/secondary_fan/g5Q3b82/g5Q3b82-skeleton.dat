@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pm chk="53e84691"?>
+
+<data type="common::IncidenceMatrix&lt;NonSymmetric&gt;" version="2.13.1" xmlns="http://www.math.tu-berlin.de/polymake/#3">
+  <description><![CDATA[skeleton g=5 polytope=Q3 bucket=82]]></description>
+  <m cols="12">
+    <v>1 4 5</v>
+    <v>2 3 7</v>
+    <v>3 4 8</v>
+    <v>1 5 6</v>
+    <v>0 6 9</v>
+    <v>7 8 10</v>
+    <v>9 10 11</v>
+    <v>0 2 11</v>
+    <v>0 9 11</v>
+    <v>1 5</v>
+    <v>4 5 6 8 9 10</v>
+    <v>2 7 10 11</v>
+    <v>3 7 8</v>
+  </m>
+</data>

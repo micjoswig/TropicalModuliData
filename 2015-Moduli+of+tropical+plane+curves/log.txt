@@ -1,0 +1,94 @@
+GENUS 3
+
+moduli_statistics g=3 polytope= #buckets=4
+bucket 0 [1 1 1]: dims={(4 10) (5 120) (6 95)} 225/225
+bucket 3 [0 2 0]: dims={(4 59) (5 216) (6 175)} 450/450
+bucket 7 [0 0 0]: dims={(3 18) (4 142) (5 269) (6 144)} 573/573
+bucket 31 [2 1 2]: dims={(5 15) (6 15)} 30/30
+TOTAL: dims={(3 18) (4 211) (5 620) (6 429)} 1278/1278
+
+moduli_statistics g=3 polytope=hyp #buckets=3
+bucket 0 [2 1 2]: dims={(5 127)} 127/127
+bucket 1 [1 1 1]: dims={(4 211) (5 695)} 906/906
+bucket 10 [0 2 0]: dims={(3 42) (4 734) (5 1296)} 2072/2072
+TOTAL: dims={(3 42) (4 945) (5 2118)} 3105/3105
+
+moduli_statistics g=3 polytope=hyptri #buckets=3
+bucket 0 [0 2 0]: dims={(3 42) (4 352) (5 369)} 763/763
+bucket 111 [1 1 1]: dims={(4 90) (5 170)} 260/260
+bucket 389 [2 1 2]: dims={(5 25)} 25/25
+TOTAL: dims={(3 42) (4 442) (5 564)} 1048/1048
+
+
+There is an issue with 16 triangulations, which failed a previous
+version of the hyperelliptic inequalities:
+
+g=3 polytope=hyp in bucket 10 = (020) = mickey mouse
+
+[id=2919: relint strict (uyvz) FAILED u=8 v=8 w=1 x=1 y=4 z=4]
+[id=2938: relint strict (uyvz) FAILED u=8 v=8 w=1 x=1 y=4 z=4]
+[id=3018: relint strict (uyvz) FAILED u=8 v=8 w=1 x=1 y=4 z=4]
+[id=3019: relint strict (uyvz) FAILED u=8 v=8 w=1 x=1 y=4 z=4]
+
+[id=3020: relint strict (uyvz) FAILED u=8 v=8 w=1 x=1 y=4 z=4]
+[id=3072: relint strict (uyvz) FAILED u=8 v=8 w=1 x=1 y=4 z=4]
+[id=3073: relint strict (uyvz) FAILED u=8 v=8 w=1 x=1 y=4 z=4]
+[id=3088: relint strict (uyvz) FAILED u=8 v=8 w=1 x=1 y=4 z=4]
+
+[id=3089: relint strict (uyvz) FAILED u=1 v=1 w=1 x=1 y=5 z=5]
+[id=3094: relint strict (uyvz) FAILED u=8 v=8 w=1 x=1 y=4 z=4]
+[id=3096: relint strict (uyvz) FAILED u=8 v=8 w=1 x=1 y=4 z=4]
+[id=3099: relint strict (uyvz) FAILED u=1 v=1 w=1 x=1 y=5 z=5]
+
+[id=3101: relint strict (uyvz) FAILED u=1 v=1 w=1 x=1 y=5 z=5]
+[id=3102: relint strict (uyvz) FAILED u=1 v=1 w=1 x=1 y=5 z=5]
+[id=3103: relint strict (uyvz) FAILED u=1 v=1 w=1 x=1 y=5 z=5]
+[id=3104: relint strict (uyvz) FAILED u=1 v=1 w=1 x=1 y=5 z=5]
+
+ids correspond to picture
+../Figures and TeX Files/16 error triangulations.pdf
+row by row
+
+
+GENUS 4
+
+polytope=T2: triangulation #11 is in bucket #8 [0 0 0]; skeleton: planar embedding check fails [FIXED]
+
+moduli_statistics g=4 polytope=R #buckets=12
+bucket 0 [2 0 2]: dims={(7 15)} 15/15
+bucket 3 [1 1 1]: dims={(6 10) (7 80) (8 40)} 130/130
+bucket 4 [2 2 3]: dims={(7 15)} 15/15
+bucket 9 [0 2 0]: dims={(5 3) (6 32) (7 152) (8 128) (9 36)} 351/351
+bucket 11 [1 2 2]: dims={(6 10) (7 80) (8 40)} 130/130
+bucket 12 [1 0 1]: dims={(5 15) (6 155) (7 210) (8 60)} 440/440
+bucket 42 [0 2 1]: dims={(5 3) (6 32) (7 152) (8 128) (9 36)} 351/351
+bucket 48 [0 1 0]: dims={(5 38) (6 423) (7 951) (8 652) (9 128)} 2192/2192
+bucket 100 [0 0 0]: dims={(5 103) (6 480) (7 764) (8 400) (9 76)} 1823/1823
+bucket 139 [1 2 1]: dims={(6 35) (7 65) (8 30)} 130/130
+bucket 273 [0 3 0]: dims={(6 45) (7 131) (8 122) (9 36)} 334/334
+bucket 534 [2 1 2]: dims={(6 15) (7 15)} 30/30
+TOTAL: dims={(5 162) (6 1237) (7 2630) (8 1600) (9 312)} 5941/5941
+
+moduli_statistics g=4 polytope=T1 #buckets=11
+bucket 0 [2 0 2]: dims={(7 25)} 25/25
+bucket 5 [1 1 1]: dims={(6 52) (7 126) (8 43)} 221/221
+bucket 13 [1 0 1]: dims={(5 19) (6 122) (7 128) (8 30)} 299/299
+bucket 15 [0 2 0]: dims={(6 53) (7 100) (8 41)} 194/194
+bucket 60 [0 1 0]: dims={(5 7) (6 113) (7 155) (8 54)} 329/329
+bucket 103 [1 2 1]: dims={(6 8) (7 20) (8 12)} 40/40
+bucket 142 [0 0 0]: dims={(5 5) (6 52) (7 60) (8 10)} 127/127
+bucket 498 [0 3 0]: dims={(6 3) (7 12) (8 8)} 23/23
+bucket 511 [1 2 2]: dims={(6 2) (7 9)} 11/11
+bucket 897 [2 1 2]: dims={(6 4) (7 2)} 6/6
+bucket 1011 [0 2 1]: dims={(6 1) (7 2)} 3/3
+TOTAL: dims={(5 31) (6 410) (7 639) (8 198)} 1278/1278
+
+moduli_statistics g=4 polytope=T2 #buckets=7
+bucket 0 [2 1 2]: dims={(7 1)} 1/1
+bucket 1 [3 0 3]: dims={(7 1)} 1/1
+bucket 2 [1 2 1]: dims={(7 1)} 1/1
+bucket 3 [0 3 0]: dims={(7 1)} 1/1
+bucket 4 [1 0 1]: dims={(6 1) (7 1)} 2/2
+bucket 5 [0 1 0]: dims={(6 1) (7 1)} 2/2
+bucket 8 [0 0 0]: dims={(4 1) (5 6) (6 3) (7 2)} 12/12
+TOTAL: dims={(4 1) (5 6) (6 5) (7 8)} 20/20

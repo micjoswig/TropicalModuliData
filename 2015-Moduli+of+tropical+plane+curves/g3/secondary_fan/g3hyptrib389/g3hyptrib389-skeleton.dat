@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pm chk="5412fe68"?>
+
+<data type="common::IncidenceMatrix&lt;NonSymmetric&gt;" version="2.13.1" xmlns="http://www.math.tu-berlin.de/polymake/#3">
+  <description><![CDATA[(212) = two_bridge; skeleton g=3 polytope=hyptri bucket=389; agrees with polytope=hyp, bucket=0]]></description>
+  <m cols="6">
+    <v>0 1</v>
+    <v>1 2 3</v>
+    <v>2 3 4</v>
+    <v>4 5</v>
+    <v>0</v>
+    <v>2 3</v>
+    <v>5</v>
+  </m>
+</data>

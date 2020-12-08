@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pm chk="5412025d"?>
+
+<data type="common::Array&lt;Int&gt;" version="2.13.1" xmlns="http://www.math.tu-berlin.de/polymake/#3">
+  <description><![CDATA[bucket_ids g=3 polytope=hyptri]]></description>
+  <v>389 450 471 518 544 551 561 578 585 593 613 624 636 705 715 718 722 730 760 764 765 777 800 854 868</v>
+</data>
