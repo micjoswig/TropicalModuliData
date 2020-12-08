@@ -3,8 +3,8 @@ This repo contains several data items concerning moduli spaces of tropical curve
 Contributions by:
 Sarah Brodsky,
 [Holger Eble](http://page.math.tu-berlin.de/~eble),
-[Michael Joswig}(http://page.math.tu-berlin.de/~joswig),
-[Ayush Kumar Tewari}(https://sites.google.com/view/ayushkumartewari/home)
+[Michael Joswig](http://page.math.tu-berlin.de/~joswig),
+[Ayush Kumar Tewari](https://sites.google.com/view/ayushkumartewari/home)
 
 Relevant references include the following:
 
