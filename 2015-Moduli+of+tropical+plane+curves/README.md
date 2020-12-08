@@ -4,7 +4,7 @@ This is the software companion to the paper:
 
 [1] Brodsky, Joswig, Morrison & Sturmfels:
 Moduli of Plane Tropical Curves, Research in the Mathematical Sciences (2015).
-[DOI: 10.1186/s40687-014-0018-1}(https://link.springer.com/article/10.1186/s40687-014-0018-1)
+[DOI: 10.1186/s40687-014-0018-1](https://link.springer.com/article/10.1186/s40687-014-0018-1)
 
 This [polymake](https://www.polymake.org) code processes triangulation data which was computed by [TOPCOM](http://www.rambau.wm.uni-bayreuth.de/TOPCOM/) or [MPTOPCOM](https://polymake.org/doku.php/mptopcom).
 
