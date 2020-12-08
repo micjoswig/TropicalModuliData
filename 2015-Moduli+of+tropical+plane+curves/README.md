@@ -10,7 +10,7 @@ This [polymake](https://www.polymake.org) code processes triangulation data whic
 
 Everything has been tested with [polymake 4.2](https://polymake.org/doku.php/news/release_4_2) of September 2020.
 
-Original code written in 2015 by [Michael Joswig](http://page.math.tu-berlin.de/~joswig/); TOPCOM data and additiony by Sarah Brodsky, Further additions and data conversion in 2020 by [Holger Eble](http://page.math.tu-berlin.de/~eble/) and [Ayush Kumar Tewari](https://sites.google.com/view/ayushkumartewari/home).
+Original code written in 2015 by [Michael Joswig](http://page.math.tu-berlin.de/~joswig/); TOPCOM data and additions by Sarah Brodsky, Further additions and data conversion in 2020 by [Holger Eble](http://page.math.tu-berlin.de/~eble/) and [Ayush Kumar Tewari](https://sites.google.com/view/ayushkumartewari/home).
 
 ## How to use the polymake scripts
 
