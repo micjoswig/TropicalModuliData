@@ -1,21 +1,20 @@
 # Moduli of tropical plane curves
 
-This is the software companion to the paper:
+This is the software companion to the paper [BJMS2015].
 
-[1] Brodsky, Joswig, Morrison & Sturmfels:
-Moduli of Plane Tropical Curves, Research in the Mathematical Sciences (2015).
-[DOI: 10.1186/s40687-014-0018-1](https://link.springer.com/article/10.1186/s40687-014-0018-1)
-
-This [polymake](https://www.polymake.org) code processes triangulation data which was computed by [TOPCOM](http://www.rambau.wm.uni-bayreuth.de/TOPCOM/) or [MPTOPCOM](https://polymake.org/doku.php/mptopcom).
+The [polymake](https://www.polymake.org) code processes triangulation data which was computed by [TOPCOM](http://www.rambau.wm.uni-bayreuth.de/TOPCOM/) or [MPTOPCOM](https://polymake.org/doku.php/mptopcom).
 
 Everything has been tested with [polymake 4.2](https://polymake.org/doku.php/news/release_4_2) of September 2020.
 
 Original code written in 2015 by [Michael Joswig](http://page.math.tu-berlin.de/~joswig/); TOPCOM data and additions by Sarah Brodsky, Further additions and data conversion in 2020 by [Holger Eble](http://page.math.tu-berlin.de/~eble/) and [Ayush Kumar Tewari](https://sites.google.com/view/ayushkumartewari/home).
 
+See also [this presentation](http://page.math.tu-berlin.de/~joswig/presentations/Joswig-DMG-201209.pdf).
+
+
 ## How to use the polymake scripts
 
 You need to change to the directory `2015-Moduli+of+tropical+plane+curves`, start polymake and initiate the setup.
-Look at the `intro.ipynb` for details.
+Look at `intro.ipynb` and `demo.ipynb` for details and examples.
 
 
 ## Organization of the files
