@@ -192,7 +192,7 @@ sub check_bucket($) {
   my $unverified_cones=0;
   my $bprefix=$prefix."b$b";
   my $ids=load_data("$wd_path/$bprefix/$bprefix-ids.dat");
-  print STDERR "bucket $b of size ", $ids->size(), ":";
+  print "bucket $b of size ", $ids->size(), ":";
   my $i=0;
   if ($b==0) {
     foreach my $m (map { load("$wd_path/$bprefix/moduli/$bprefix-$_-moduli.cone") } @$ids) {
@@ -213,7 +213,7 @@ sub check_bucket($) {
   } else {
     die " not found";
   }
-  print STDERR "\nunverified cones=", $unverified_cones, " out of $i checked\n";
+  print "\nunverified cones=", $unverified_cones, " out of $i checked\n";
 }
 
 # Local Variables:
