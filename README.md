@@ -57,7 +57,7 @@ triangulations of Newton polygons with g interior lattice points. It has dimensi
 }
 ```
 
-## Forbiden patterns in tropical plane curves
+## Forbidden patterns in tropical plane curves
 
 Tropical curves in R 2 correspond to metric planar graphs but not all planar graphs
 arise in this way. We describe several new classes of graphs which cannot occur.
