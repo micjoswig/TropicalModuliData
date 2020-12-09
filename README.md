@@ -35,7 +35,7 @@ The main software reference is [polymake](https://www.polymake.org).
 }
 ```
 
-If you use any of this data in your research please cite this repo and at least one of the references listed here.
+If you use any of this data in your research please cite this repo and at least one of the references listed as BibTeX entries here.
 
 ## Moduli of tropical plane curves
 
@@ -47,13 +47,13 @@ triangulations of Newton polygons with g interior lattice points. It has dimensi
 
 ```
 @Article{BJMS2015,
-  author = 	 {Brodsky, Sarah and Joswig, Michael and Morrison, Ralph and Sturmfels, Bernd},
-  title = 	 {Moduli of tropical plane curves},
-  journal =  {Res. Math. Sci.},
-  volume =   {2},
-  number =   {4},
-  year = 	 {2015},
-  doi =      {10.1186/s40687-014-0018-1},
+  author =  {Brodsky, Sarah and Joswig, Michael and Morrison, Ralph and Sturmfels, Bernd},
+  title =   {Moduli of tropical plane curves},
+  journal = {Res. Math. Sci.},
+  volume =  {2},
+  number =  {4},
+  year =    {2015},
+  doi =     {10.1186/s40687-014-0018-1},
 }
 ```
 
