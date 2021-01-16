@@ -4,6 +4,7 @@ This repository contains data concerning various moduli spaces of tropical curve
 
 Contributions by:
 Sarah Brodsky,
+[Dominic Bunnett](http://page.math.tu-berlin.de/~bunnett),
 [Holger Eble](http://page.math.tu-berlin.de/~eble),
 [Michael Joswig](http://page.math.tu-berlin.de/~joswig),
 [Ayush Kumar Tewari](https://sites.google.com/view/ayushkumartewari/home)
@@ -59,7 +60,7 @@ triangulations of Newton polygons with g interior lattice points. It has dimensi
 
 ## Forbidden patterns in tropical plane curves
 
-Tropical curves in R 2 correspond to metric planar graphs but not all planar graphs
+Tropical curves in $R^2$ correspond to metric planar graphs but not all planar graphs
 arise in this way. We describe several new classes of graphs which cannot occur.
 For instance, this yields a full combinatorial characterization of the tropically planar
 graphs of genus at most five.
@@ -74,3 +75,9 @@ graphs of genus at most five.
   note =    {Published online: 19 August 2020},
 }
 ```
+
+## Symmetric crosscuts and tropical moduli
+
+We investigate geometric embeddings among several classes of stacky fans and algorithms, e.g., to compute their homology.
+Interesting cases arise from moduli spaces of tropical curves.
+Specifically, we study the embedding of the moduli of tropical honeycomb curves into the moduli of all tropical $K_4$-curves.
