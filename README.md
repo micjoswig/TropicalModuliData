@@ -77,7 +77,7 @@ graphs of genus at most five.
 }
 ```
 
-## Symmetric crosscuts and tropical moduli
+## Stacky fans and tropical moduli in polymake
 
 We investigate geometric embeddings among several classes of stacky fans and algorithms, e.g., to compute their homology.
 Interesting cases arise from moduli spaces of tropical curves.
