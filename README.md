@@ -81,3 +81,12 @@ graphs of genus at most five.
 We investigate geometric embeddings among several classes of stacky fans and algorithms, e.g., to compute their homology.
 Interesting cases arise from moduli spaces of tropical curves.
 Specifically, we study the embedding of the moduli of tropical honeycomb curves into the moduli of all tropical $K_4$-curves.
+
+```
+@Misc{BunnettJoswigPfeifle:2101.07316,
+  author = {Bunnett, Dominic and Joswig, Michael and Pfeifle, Julian},
+  title =  {Stacky fans and tropical moduli in polymake},
+  year =   2021,
+  note =   {Preprint arXiv:2101.07316}
+}
+```
