@@ -7,6 +7,7 @@ Sarah Brodsky,
 [Dominic Bunnett](http://page.math.tu-berlin.de/~bunnett),
 [Holger Eble](http://page.math.tu-berlin.de/~eble),
 [Michael Joswig](http://page.math.tu-berlin.de/~joswig),
+[Julian Pfeifle](https://mat.upc.edu/en/people/julian.pfeifle/),
 [Ayush Kumar Tewari](https://sites.google.com/view/ayushkumartewari/home)
 
 As general references for tropical geometry see
