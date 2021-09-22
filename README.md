@@ -15,7 +15,7 @@ As general references for tropical geometry see
 
 * D. MacLagan, B. Sturmfels: Introduction to tropical geometry. Graduate Studies in Mathematics, 161. American Mathematical Society, Providence, RI, 2015.
 
-* M. Joswig: Essentials of tropical combinatorics.  [Draft of a forthcoming book](http://page.math.tu-berlin.de/~joswig/etc/index.html)
+* M. Joswig: Essentials of tropical combinatorics.  Graduate Studies in Mathematics, 219. American Mathematical Society, Providence, RI, 2022. [(near final draft)](http://page.math.tu-berlin.de/~joswig/etc/index.html)
 
 This repository is subdivided into directories, each of which corresponds to one publication.
 For details see the `README.md` files in those subdirectories.
