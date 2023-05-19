@@ -77,9 +77,9 @@ graphs of genus at most five.
 }
 ```
 
-## Stacky fans and tropical moduli in polymake
+## Generalised cone complexes and tropical moduli in polymake
 
-We investigate geometric embeddings among several classes of stacky fans and algorithms, e.g., to compute their homology.
+We investigate geometric embeddings among several classes of generalised cone complexes and algorithms, e.g., to compute their homology.
 Interesting cases arise from moduli spaces of tropical curves.
 Specifically, we study the embedding of the moduli of tropical honeycomb curves into the moduli of all tropical $K_4$-curves.
 
