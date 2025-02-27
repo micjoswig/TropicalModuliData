@@ -129,7 +129,7 @@ sub one_bridge_moduli() {
   my $M6=new Polytope(INEQUALITIES=>$non_negative/$xw/$xv_w_4xv);
   
   # Graph 3 automorphism taking u->v, v->u, w->w, x->x, y->y, z->z
-  my $wx   =new Matrix( [[0, 0,0,-1, 1,0,0]] );
+  $wx   =new Matrix( [[0, 0,0,-1, 1,0,0]] );
   my $wu_x =new Matrix( [0, -1,0,-1, 1,0,0], [0, 1,0,3, -1,0,0], [0, -1,1,0, 0,0,0] );
   my $u3w_x=new Matrix( [0,-1,0,-3,1,0,0], [0,1,0,4,-1,0,0], [0,-1,1,0,0,0,0], [0,3/2,-1,0,0,0,0] );
   my $wu_x_4wu=new Matrix( [0,-1,0,-1,1,0,0],[0,1,0,4,-1,0,0],[0,-2,1,0,0,0,0],[0,2,-1,0,0,0,0] );
@@ -137,7 +137,7 @@ sub one_bridge_moduli() {
   my $Muv2=new Polytope(INEQUALITIES=>$non_negative/$wx/$u3w_x);
   my $Muv3=new Polytope(INEQUALITIES=>$non_negative/$wx/$wu_x_4wu);
   # (wx)
-  my $xw   =new Matrix( [[0, 0,0,1, -1,0,0]] );
+  $xw   =new Matrix( [[0, 0,0,1, -1,0,0]] );
   my $xu_w =new Matrix( [0, -1,0,1, -1,0,0], [0, 1,0,-1, 3,0,0], [0, -1,1,0, 0,0,0] );
   my $u3x_w=new Matrix( [0,-1,0,1,-3,0,0], [0,1,0,-1,4,0,0], [0,-1,1,0,0,0,0], [0,3/2,-1,0,0,0,0] );
   my $xu_w_4xu=new Matrix( [0,-1,0,1,-1,0,0],[0,1,0,-1,4,0,0],[0,-2,1,0,0,0,0],[0,2,-1,0,0,0,0] );
